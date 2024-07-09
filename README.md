@@ -70,7 +70,7 @@ The dashboard aims to deliver meaningful insights and actionable information to 
 - Customers who subscribe to online security and tech support services have a lower churn rate as they value security and assistance.
 
 📝 **Contract Type:**
-Customers with longer contract durations (e.g., one year or two years) are less likely to churn compared to those on a month-to-month contract.
+- Customers with longer contract durations (e.g., one year or two years) are less likely to churn compared to those on a month-to-month contract.
 
 ### 💳 Billing & Payment:
 📄 **Paperless Billing:**
