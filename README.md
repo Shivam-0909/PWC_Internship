@@ -129,25 +129,25 @@ The dashboard aims to deliver meaningful insights and actionable information to 
 3. 👩 Number of Female Employees
 4. 📈 Hired Employees (Men vs. Women)
 5. 🚀 Employees Promoted (FY20) & (FY21)
-6. ♂️ Male Employees Promoted (FY20) & (FY21)
-7. ♀️ Female Employees Promoted (FY20) & (FY21)
+6. 👨 Male Employees Promoted (FY20) & (FY21)
+7. 👩 Female Employees Promoted (FY20) & (FY21)
 8. 🔄 Turnover Rate
 9. ⭐ Average Performance Rating (Men)
 10. 🌟 Average Performance Rating (Women)
 
 ### 📊 Key Performance Indicators (KPIs):
 
-- 𝐇𝐢𝐫𝐢𝐧𝐠:
-📉 Tracking the percentage of hires (Men vs. Women) provides visibility into recruitment practices, ensuring a balanced workforce from the outset.
+-📉 𝐇𝐢𝐫𝐢𝐧𝐠:
+ Tracking the percentage of hires (Men vs. Women) provides visibility into recruitment practices, ensuring a balanced workforce from the outset.
 
-- 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧:
-📈 Measuring the percentage of promotions (Men vs. Women) helps identify and celebrate talent, ensuring opportunities are equitable and merit-based.
+-📈 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧:
+ Measuring the percentage of promotions (Men vs. Women) helps identify and celebrate talent, ensuring opportunities are equitable and merit-based.
 
-- 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞:
-🔍 Assessing average performance ratings (Men vs. Women) highlights potential biases and promotes a fair evaluation system.
+-🔍 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞:
+ Assessing average performance ratings (Men vs. Women) highlights potential biases and promotes a fair evaluation system.
 
-- 𝐓𝐮𝐫𝐧𝐨𝐯𝐞𝐫:
-🔄 Monitoring turnover rates (Men vs. Women) identifies areas of concern, ensuring the workplace retains diverse talent.
+-🔄 𝐓𝐮𝐫𝐧𝐨𝐯𝐞𝐫:
+ Monitoring turnover rates (Men vs. Women) identifies areas of concern, ensuring the workplace retains diverse talent.
 
 ### 🎯 Final Goal:
 The ultimate aim is to address gender balance challenges practically. This involves not only setting strategic objectives but also measuring, analyzing, and continuously improving diversity and inclusion initiatives.
