@@ -41,10 +41,10 @@ The dashboard aims to deliver meaningful insights and actionable information to 
 
    ✅ These insights can serve as a foundation for further analysis and decision-making aimed at improving customer service operations and enhancing overall customer 
    satisfaction.
+
+![Screenshot (9)](https://github.com/Shivam-0909/PWC_Internship/assets/173950776/70be9dfc-c3b2-4cd4-8334-d53f01e89ed4)
   
-  ![Screenshot (9)](https://github.com/Shivam-0909/PWC_Internship/assets/173950776/70be9dfc-c3b2-4cd4-8334-d53f01e89ed4)
-  
-  ![Screenshot (10)](https://github.com/Shivam-0909/PWC_Internship/assets/173950776/3be0a16b-8e70-4fcc-be72-e0e8b8a9afb3)
+![Screenshot (10)](https://github.com/Shivam-0909/PWC_Internship/assets/173950776/3be0a16b-8e70-4fcc-be72-e0e8b8a9afb3)
 
 ## TASK 2: Customer Churn Analysis of PhoneNow Company.
 
@@ -108,9 +108,9 @@ The dashboard aims to deliver meaningful insights and actionable information to 
   - Since the churn rate is higher for fiber optic internet services, efforts should be made to retain these customers and improve services in this area.
   - Encourage customers to subscribe to more services and opt for longer contract durations.
     
-    ![Screenshot (11)](https://github.com/Shivam-0909/PWC_Internship/assets/173950776/1be3f58c-e752-435d-9a8f-974178ea2ea3)
+![Screenshot (11)](https://github.com/Shivam-0909/PWC_Internship/assets/173950776/1be3f58c-e752-435d-9a8f-974178ea2ea3)
   
-    ![Screenshot (12)](https://github.com/Shivam-0909/PWC_Internship/assets/173950776/908444bd-88e5-4a76-8d3d-ceeca0f05ab8)
+![Screenshot (12)](https://github.com/Shivam-0909/PWC_Internship/assets/173950776/908444bd-88e5-4a76-8d3d-ceeca0f05ab8)
 
 # Task 3: Diversity & Inclusion Dashboard
 
