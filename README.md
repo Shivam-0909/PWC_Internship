@@ -72,7 +72,7 @@ The dashboard aims to deliver meaningful insights and actionable information to 
 📝 **Contract Type:**
 Customers with longer contract durations (e.g., one year or two years) are less likely to churn compared to those on a month-to-month contract.
 
-### 💳 Billing & Payment
+### 💳 Billing & Payment:
 📄 **Paperless Billing:**
 - Customers opting for paperless billing may exhibit different behaviors compared to those receiving paper bills.
 
