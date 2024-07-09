@@ -1,4 +1,4 @@
-# **🌟 PWC_Internship 🌟**
+# **🌟 PWC_Internship**
 
 During the PwC Switzerland Virtual Internship Program offered by Forage, I performed various tasks that helped me develop essential skills in data analysis and data visualization using Power BI.
 
